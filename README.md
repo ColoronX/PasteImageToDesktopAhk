@@ -44,7 +44,3 @@ To stop it, right-click the tray icon and choose **Exit**.
 - Output is PNG only.
 - Requires Windows 10 or later with built-in `powershell.exe`.
 - Some antivirus tools flag AutoHotkey-compiled executables as false positives. Add an exclusion or run the `.ahk` directly.
-
-## License
-
-MIT
